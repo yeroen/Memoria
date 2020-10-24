@@ -21,7 +21,7 @@ public class Nivel1 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_nivel1);
-        img1 = (ImageView)findViewById(R.id.img3);
+        img1 = (ImageView)findViewById(R.id.img1);
         img2 = (ImageView)findViewById(R.id.img2);
         img3 = (ImageView)findViewById(R.id.img3);
         img4 = (ImageView)findViewById(R.id.img4);
